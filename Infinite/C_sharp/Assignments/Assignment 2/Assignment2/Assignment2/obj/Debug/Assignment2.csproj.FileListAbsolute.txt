@@ -1,0 +1,7 @@
+D:\Riya\Infinite\C_sharp\Assignments\Assignment 2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Riya\Infinite\C_sharp\Assignments\Assignment 2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Riya\Infinite\C_sharp\Assignments\Assignment 2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Riya\Infinite\C_sharp\Assignments\Assignment 2\ConsoleApp1\ConsoleApp1\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+D:\Riya\Infinite\C_sharp\Assignments\Assignment 2\ConsoleApp1\ConsoleApp1\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+D:\Riya\Infinite\C_sharp\Assignments\Assignment 2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Riya\Infinite\C_sharp\Assignments\Assignment 2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

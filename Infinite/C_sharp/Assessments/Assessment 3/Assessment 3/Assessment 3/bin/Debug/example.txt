@@ -1,0 +1,2 @@
+Initial content of the file.
+This text is appended to the file.

@@ -1,0 +1,7 @@
+C:\Users\riyay\source\repos\TaskCodes\TaskCodes\bin\Debug\TaskCodes.exe.config
+C:\Users\riyay\source\repos\TaskCodes\TaskCodes\bin\Debug\TaskCodes.exe
+C:\Users\riyay\source\repos\TaskCodes\TaskCodes\bin\Debug\TaskCodes.pdb
+C:\Users\riyay\source\repos\TaskCodes\TaskCodes\obj\Debug\TaskCodes.csproj.AssemblyReference.cache
+C:\Users\riyay\source\repos\TaskCodes\TaskCodes\obj\Debug\TaskCodes.csproj.CoreCompileInputs.cache
+C:\Users\riyay\source\repos\TaskCodes\TaskCodes\obj\Debug\TaskCodes.exe
+C:\Users\riyay\source\repos\TaskCodes\TaskCodes\obj\Debug\TaskCodes.pdb

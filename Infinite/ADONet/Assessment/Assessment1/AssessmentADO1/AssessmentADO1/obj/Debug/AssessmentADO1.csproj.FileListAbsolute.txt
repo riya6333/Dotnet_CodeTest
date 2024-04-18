@@ -1,0 +1,7 @@
+D:\Riya\Infinite\ADONet\Assessment\Assessment1\AssessmentADO1\AssessmentADO1\bin\Debug\AssessmentADO1.exe.config
+D:\Riya\Infinite\ADONet\Assessment\Assessment1\AssessmentADO1\AssessmentADO1\bin\Debug\AssessmentADO1.exe
+D:\Riya\Infinite\ADONet\Assessment\Assessment1\AssessmentADO1\AssessmentADO1\bin\Debug\AssessmentADO1.pdb
+D:\Riya\Infinite\ADONet\Assessment\Assessment1\AssessmentADO1\AssessmentADO1\obj\Debug\AssessmentADO1.csproj.AssemblyReference.cache
+D:\Riya\Infinite\ADONet\Assessment\Assessment1\AssessmentADO1\AssessmentADO1\obj\Debug\AssessmentADO1.csproj.CoreCompileInputs.cache
+D:\Riya\Infinite\ADONet\Assessment\Assessment1\AssessmentADO1\AssessmentADO1\obj\Debug\AssessmentADO1.exe
+D:\Riya\Infinite\ADONet\Assessment\Assessment1\AssessmentADO1\AssessmentADO1\obj\Debug\AssessmentADO1.pdb
