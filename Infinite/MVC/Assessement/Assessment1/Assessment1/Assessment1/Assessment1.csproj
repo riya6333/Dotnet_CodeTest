@@ -139,7 +139,6 @@
     </Compile>
     <Compile Include="Controllers\CodeController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\MoviesController.cs" />
     <Compile Include="Current_Product_List.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
@@ -188,8 +187,6 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Model1.edmx</DependentUpon>
     </Compile>
-    <Compile Include="Models\Movies.cs" />
-    <Compile Include="Models\MoviesDBContext.cs" />
     <Compile Include="Order.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
@@ -307,11 +304,10 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Code\GermanyCustomers.cshtml" />
     <Content Include="Views\Code\OrderDetails.cshtml" />
-    <Content Include="Views\Movie\Index.cshtml" />
-    <Content Include="Views\Movie\Delete.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Models\" />
     <Folder Include="Views\Movies\" />
   </ItemGroup>
   <ItemGroup>
