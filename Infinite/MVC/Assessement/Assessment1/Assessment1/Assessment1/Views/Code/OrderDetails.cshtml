@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "OrderDetails";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Customer Details for Order ID 10248</title>
+</head>
+<body>
+    <h2>Customer Details for Order ID 10248</h2>
+    @if (Model != null)
+    {
+        <div>
+            <strong>Customer ID:</strong> @Model.CustomerID<br />
+            <strong>Company Name:</strong> @Model.CompanyName<br />
+
+        </div>
+    }
+    else
+    {
+        <p>No customer found for Order ID 10248.</p>
+    }
+</body>
+</html>
+
