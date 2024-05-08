@@ -1,0 +1,9 @@
+C:\Riya\Infinite\MVC_Core\Assessment10\Assessment10\obj\Debug\net8.0\Assessment10.csproj.AssemblyReference.cache
+C:\Riya\Infinite\MVC_Core\Assessment10\Assessment10\obj\Debug\net8.0\Assessment10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Riya\Infinite\MVC_Core\Assessment10\Assessment10\obj\Debug\net8.0\Assessment10.AssemblyInfoInputs.cache
+C:\Riya\Infinite\MVC_Core\Assessment10\Assessment10\obj\Debug\net8.0\Assessment10.AssemblyInfo.cs
+C:\Riya\Infinite\MVC_Core\Assessment10\Assessment10\obj\Debug\net8.0\Assessment10.csproj.CoreCompileInputs.cache
+C:\Riya\Infinite\MVC_Core\Assessment10\Assessment10\obj\Debug\net8.0\Assessment10.MvcApplicationPartsAssemblyInfo.cache
+C:\Riya\Infinite\MVC_Core\Assessment10\Assessment10\obj\Debug\net8.0\Assessment10.RazorAssemblyInfo.cache
+C:\Riya\Infinite\MVC_Core\Assessment10\Assessment10\obj\Debug\net8.0\Assessment10.RazorAssemblyInfo.cs
+C:\Riya\Infinite\MVC_Core\Assessment10\Assessment10\obj\Debug\net8.0\Assessment10.sourcelink.json
